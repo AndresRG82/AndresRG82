@@ -118,7 +118,6 @@
 
 ### 🎯 Disponible para:
 - 🚀 Desarrollo Full-Stack y Testing Automation
-- 🔍 Consultoría en Quality Assurance
 - 🌍 Trabajo remoto y colaboraciones internacionales
 - 🎓 Mentoría técnica y revisión de código
 
