@@ -18,11 +18,12 @@
 
 ## 👋 Sobre Mí
 **Maykol Andres Ramirez Gonzalez**
+
 **Ingeniero de Ejecución en Informática** con más de **8 años de experiencia** especializado en **Quality Assurance**, **Testing Automation** y **desarrollo Full-Stack**. 
 
 🎓 **Educación**: Pontificia Universidad Católica de Valparaíso (2011-2016)  
 🌍 **Experiencia Internacional**: 2 años en Nueva Zelanda (2023-2025)  
-🎯 **Especialización**: Testing frameworks, API automation y desarrollo web
+🎯 **Especialización**: Testing frameworks, API automation y Desarrollo Web
 
 ### 💼 Experiencia en Sectores
 - **Bancario**: Sistemas enterprise y aplicaciones críticas
