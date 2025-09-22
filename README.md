@@ -6,10 +6,11 @@
 
 **Desarrollador especializado en Testing, Automatización y Quality Assurance**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/andresrg82)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/AndresRG82)
-[![Email](https://img.shields.io/badge/Email-mandresrg93@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mandresrg93@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+56_9_74883724-25D366?style=for-the-badge&logo=whatsapp)](tel:+56974883724)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maykol-andres-ramirez-gonzalez-976b41192/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](ht| Canal | Información | Uso Preferido |
+|-------|-------------|---------------|
+| 💼 **LinkedIn** | [Maykol Andrés Ramírez González](https://www.linkedin.com/in/maykol-andres-ramirez-gonzalez-976b41192/) | Networking profesional |
+| 🐱 **GitHub** | [github.com/AndresRG82](https://github.com/AndresRG82) | Colaboraciones técnicas y revisión de código |github.com/AndresRG82)
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://img.shields.io/badge/Repositories-37-blue?style=for-the-badge&logo=github)
@@ -114,64 +115,20 @@ Mi experiencia se caracteriza por:
 <div align="center">
 
 [![Certificados](https://img.shields.io/badge/Project-Certificados_Public-4CAF50?style=for-the-badge)](https://github.com/AndresRG82/certificados-public)
-[![Demo](https://img.shields.io/badge/Demo-Live_App-2196F3?style=for-the-badge)](http://your-demo-link.com)
 
 </div>
 
-#### 📖 Descripción del Proyecto
+Sistema web moderno para la **gestión y generación de certificados digitales**. Solución integral que combina un backend robusto Laravel con una interfaz React moderna y reactiva.
 
-Sistema web moderno para la **gestión y generación de certificados digitales** construido con las tecnologías más actuales. Este proyecto representa una solución integral que combina un backend robusto con una interfaz de usuario moderna y reactiva.
+**Tecnologías**: `Laravel 11` `React 18` `PostgreSQL` `Tailwind CSS` `Docker`
 
-#### 🎯 Objetivos del Proyecto
+**Características principales**:
+- 🎨 Interfaz SPA con Inertia.js
+- 📜 Generación automática de PDF
+- 📱 Diseño responsivo
+- � Deployment con Docker y CI/CD
 
-- **Digitalizar** el proceso de emisión de certificados de mantenimiento de maquinaria
-- **Automatizar** la generación de documentos PDF con diseño profesional
-- **Centralizar** la gestión de empresas, maquinarias y certificaciones
-- **Implementar** un sistema de autenticación y permisos granular
-- **Proporcionar** una interfaz moderna y responsive para múltiples dispositivos
-
-#### 🛠️ Tecnologías Utilizadas
-
-**Backend:**
-- ![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel) - Framework PHP para desarrollo robusto
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-336791?logo=postgresql) - Base de datos relacional
-- ![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?logo=redis) - Sistema de caché
-
-**Frontend:**
-- ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react) - Biblioteca para interfaces de usuario
-- ![Inertia.js](https://img.shields.io/badge/Inertia.js-SPA-9553E9) - Single Page Application
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Styling-38B2AC?logo=tailwind-css) - Framework de estilos
-- ![DaisyUI](https://img.shields.io/badge/DaisyUI-Components-5A67D8) - Componentes UI
-
-**DevOps y Deployment:**
-- ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker) - Contenedorización
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=github-actions) - Integración continua
-- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Hosting-0080FF?logo=digitalocean) - Hosting en la nube
-
-**Monitoreo:**
-- ![Sentry](https://img.shields.io/badge/Sentry-Error_Monitoring-362D59?logo=sentry) - Monitoreo de errores
-
-#### 🔧 Características Principales
-
-- **🎨 Interfaz Moderna**: React 18 con Inertia.js para una experiencia SPA fluida
-- **📜 Gestión de Certificados**: Sistema completo CRUD con generación de PDF
-- **⚙️ Panel de Administración**: Control total de configuraciones del sistema
-- **📱 Diseño Responsivo**: Optimizado para móviles, tablets y desktop
-- **🚀 Deployment Automatizado**: CI/CD completo con GitHub Actions
-- **🐳 Containerización**: Docker para desarrollo y producción
-- **📊 Monitoreo de Errores**: Integración completa con Sentry
-
-#### 💡 Reflexiones y Aprendizajes
-
-Este proyecto me permitió profundizar en:
-
-- **Arquitectura Full-Stack Moderna**: Integración seamless entre Laravel y React
-- **DevOps Avanzado**: Implementación de pipelines de deployment completamente automatizados
-- **Gestión de Estado Compleja**: Manejo de formularios complejos con múltiples relaciones
-- **Optimización de Performance**: Implementación de caché y optimizaciones de consultas
-- **Monitoreo en Producción**: Configuración de alertas y tracking de errores
-
-**Enlace al Código:** [📂 certificados-public](https://github.com/AndresRG82/certificados-public)
+**Enlace**: [📂 certificados-public](https://github.com/AndresRG82/certificados-public)
 
 ---
 
@@ -180,34 +137,18 @@ Este proyecto me permitió profundizar en:
 <div align="center">
 
 [![API Testing](https://img.shields.io/badge/Project-API_Testing_Framework-FF6B35?style=for-the-badge)](https://github.com/AndresRG82/Rest-Assured-Certificados)
-[![Tests](https://img.shields.io/badge/Tests-15_Scenarios-28A745?style=for-the-badge)](https://github.com/AndresRG82/Rest-Assured-Certificados)
 
 </div>
 
-#### 📖 Descripción del Proyecto
+Framework de **testing automatizado para APIs REST** con autenticación JWT y reportes avanzados. Garantiza la calidad de endpoints antes del deployment.
 
-Framework de **testing automatizado para APIs REST** con autenticación JWT, validación de contratos y reportes avanzados. Diseñado para garantizar la calidad y estabilidad de los endpoints antes del deployment de interfaces de usuario.
+**Tecnologías**: `Rest Assured` `TestNG` `Maven` `JWT` `Jenkins`
 
-#### 🎯 Objetivos del Proyecto
-
-- **Validar contratos API** antes de cada deployment de frontend
-- **Automatizar testing** en múltiples ambientes (local, staging, production)
-- **Implementar autenticación JWT** automática con renovación
-- **Generar reportes detallados** para equipos de desarrollo y QA
-- **Integrar con CI/CD** para validación continua
-
-#### 🛠️ Tecnologías Utilizadas
-
-**Core Testing Framework:**
-- ![Rest Assured](https://img.shields.io/badge/Rest_Assured-5.3.2-4CAF50) - Framework principal para testing de APIs
-- ![TestNG](https://img.shields.io/badge/TestNG-7.8.0-FF9800) - Motor de ejecución de tests
-- ![AssertJ](https://img.shields.io/badge/AssertJ-3.24.2-2196F3) - Aserciones expresivas
-- ![Maven](https://img.shields.io/badge/Maven-3.11.0-C71A36?logo=apache-maven) - Gestión de dependencias
-
-**Autenticación y Seguridad:**
-- ![JWT](https://img.shields.io/badge/JWT-Auth-000000?logo=json-web-tokens) - Autenticación stateless
-- **Auto-refresh Tokens** - Renovación automática para sesiones largas
-- **Multi-credenciales** - Soporte para diferentes usuarios por ambiente
+**Características principales**:
+- 🔐 Autenticación JWT automática
+- 📊 Reportes detallados con ExtentReports
+- 🚀 Integración con CI/CD
+- 🧪 15+ escenarios de testing automatizados
 
 **Reportes y Documentación:**
 - ![Allure](https://img.shields.io/badge/Allure-2.24.0-85C1E9) - Reportes HTML interactivos
@@ -257,7 +198,7 @@ Este framework me enseñó:
 
 **Estado del Proyecto:** ✅ **FASE 2 API TESTING COMPLETADA EXITOSAMENTE**
 
-**Enlace al Código:** [📂 Rest-Assured-Certificados](https://github.com/AndresRG82/Rest-Assured-Certificados)
+**Enlace**: [📂 Rest-Assured-Certificados](https://github.com/AndresRG82/Rest-Assured-Certificados)
 
 ---
 
@@ -266,48 +207,20 @@ Este framework me enseñó:
 <div align="center">
 
 [![BDD Testing](https://img.shields.io/badge/Project-BDD_Testing_Framework-9C27B0?style=for-the-badge)](https://github.com/AndresRG82/selenium-certificados)
-[![Cucumber](https://img.shields.io/badge/Cucumber-BDD-23D96C?style=for-the-badge&logo=cucumber)](https://github.com/AndresRG82/selenium-certificados)
 
 </div>
 
-#### 📖 Descripción del Proyecto
+Framework de **pruebas BDD** para automatización de testing de interfaces web usando Selenium WebDriver y Cucumber. Implementa el patrón Page Object Model con tests en lenguaje natural.
 
-Framework de **pruebas BDD (Behavior Driven Development)** para automatización de testing de interfaces web utilizando Selenium WebDriver y Cucumber. Implementa el patrón Page Object Model y proporciona testing en lenguaje natural.
+**Tecnologías**: `Selenium 4` `Cucumber` `TestNG` `Maven` `Page Object Model`
 
-#### 🎯 Objetivos del Proyecto
+**Características principales**:
+- 🧪 Tests BDD en lenguaje natural
+- 🏗️ Page Object Model para mantenibilidad
+- 🌐 Soporte multi-browser (Chrome, Firefox, Edge)
+- 📸 Capturas automáticas en fallos
 
-- **Automatizar testing de UI** usando metodología BDD
-- **Implementar Page Object Model** para mantenibilidad del código
-- **Crear tests en lenguaje natural** comprensibles para stakeholders
-- **Proporcionar testing cross-browser** (Chrome, Firefox, Edge)
-- **Generar reportes visuales** con capturas de pantalla automáticas
-
-#### 🛠️ Tecnologías Utilizadas
-
-**Core BDD Framework:**
-- ![Cucumber](https://img.shields.io/badge/Cucumber-7.18.0-23D96C?logo=cucumber) - Framework BDD para escenarios en lenguaje natural
-- ![Selenium](https://img.shields.io/badge/Selenium-4.15.0-43B02A?logo=selenium) - Automatización de navegadores web
-- ![TestNG](https://img.shields.io/badge/TestNG-7.8.0-FF9800) - Framework de testing para Java
-- ![Maven](https://img.shields.io/badge/Maven-Build_Tool-C71A36?logo=apache-maven) - Gestión de dependencias
-
-**Patrones de Diseño:**
-- **Page Object Model** - Mantenimiento óptimo del código de páginas
-- **Factory Pattern** - Gestión dinámica de WebDrivers
-- **Strategy Pattern** - Configuración flexible de navegadores
-
-**Características Avanzadas:**
-- **Multi-Browser Support** - Chrome, Firefox, Edge
-- **Headless Mode** - Ejecución sin interfaz gráfica
-- **Responsive Testing** - Validación en múltiples resoluciones
-- **Screenshot on Failure** - Capturas automáticas para debug
-
-#### 🔧 Arquitectura del Framework
-
-```
-selenium-certificados/
-├── 🧪 src/test/java/com/certificados/
-│   ├── 🏗️ config/          # Configuración del WebDriver
-│   ├── 🚗 driver/          # Gestión dinámica de drivers
+**Enlace**: [� selenium-certificados](https://github.com/AndresRG82/selenium-certificados)
 │   ├── 🎣 hooks/           # Setup/teardown de Cucumber
 │   ├── 📄 pages/           # Page Object Model
 │   ├── 🏃 runners/         # Test Runners por categoría
