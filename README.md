@@ -1,4 +1,4 @@
-# 🎯 Andrés RG82 - Quality Assurance & Full-Stack Developer
+# 🎯 Maykol Ramirez - Quality Assurance & Full-Stack Developer
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maykol-andres-ramirez-gonzalez-976b41192/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/AndresRG82)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:mandresrg93@gmail.com)
+
 
 ![GitHub Stats](https://img.shields.io/badge/Repositories-37-blue?style=flat-square&logo=github)
 ![Experience](https://img.shields.io/badge/Experience-8%2B_Years-green?style=flat-square)
@@ -17,7 +17,7 @@
 ---
 
 ## 👋 Sobre Mí
-
+**Maykol Andres Ramirez Gonzalez**
 **Ingeniero de Ejecución en Informática** con más de **8 años de experiencia** especializado en **Quality Assurance**, **Testing Automation** y **desarrollo Full-Stack**. 
 
 🎓 **Educación**: Pontificia Universidad Católica de Valparaíso (2011-2016)  
@@ -111,8 +111,6 @@ Automatización de testing web con BDD usando Page Object Model para interfaces 
 
 ## 📞 Contacto
 
-**📧 Email**: [mandresrg93@gmail.com](mailto:mandresrg93@gmail.com)  
-**📱 Teléfono**: [+56 9 74883724](tel:+56974883724)  
 **💼 LinkedIn**: [linkedin.com/in/maykol-andres-ramirez-gonzalez-976b41192](https://www.linkedin.com/in/maykol-andres-ramirez-gonzalez-976b41192/)
 
 ### 🎯 Disponible para:
@@ -121,14 +119,3 @@ Automatización de testing web con BDD usando Page Object Model para interfaces 
 - 🌍 Trabajo remoto y colaboraciones internacionales
 - 🎓 Mentoría técnica y revisión de código
 
----
-
-<div align="center">
-
-### 🌟 "La calidad no es un acto, es un hábito" - Aristóteles
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresRG82&show_icons=true&theme=vue-dark)
-
-**⭐ Si este portafolio te resultó útil, no dudes en darle una estrella al repositorio**
-
-</div>
