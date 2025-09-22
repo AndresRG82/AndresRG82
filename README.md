@@ -104,20 +104,27 @@
 
 ---
 
-## 📚 Competencias Técnicas Especializadas
+## 🎯 Especialización y Competencias Técnicas
 
-### 🎯 Testing & Quality Assurance
+### 🔍 Quality Assurance & Testing
 - **Metodologías Ágiles**: Scrum, historias de usuario, integración continua
 - **TDD/BDD**: Desarrollo guiado por pruebas con JUnit, TestNG, Cucumber
 - **Testing Funcional**: Selenium WebDriver, Page Object Model, cross-browser testing
 - **API Testing**: Rest Assured, Postman, Newman, validación JWT y OAuth
 - **Performance Testing**: JMeter, análisis de carga, estrés y resistencia
 - **Cobertura de Código**: Jacoco, reportes de calidad y métricas
+- **Frameworks Personalizados**: Desarrollo de soluciones de testing escalables
+- **CI/CD Integration**: Integración en pipelines de desarrollo
+
+### 🌐 Desarrollo Full-Stack
+- **Frontend**: React, Vue.js, interfaces modernas y responsivas
+- **Backend**: Laravel, Node.js, APIs REST robustas
+- **Bases de Datos**: PostgreSQL, MySQL, optimización de consultas
+- **DevOps**: Docker, Azure, automatización de deployment
 
 ### 🛡️ Seguridad y Buenas Prácticas
 - **Autenticación**: JWT, API Keys, OAuth 2.0
 - **Refactorización**: Principios SOLID, patrones de diseño
-- **CI/CD Integration**: Pipelines automatizados, hooks de pre-commit
 - **Mocking**: Mockito para aislamiento de dependencias
 
 ---
@@ -132,22 +139,6 @@
 
 ### 🗄️ Bases de Datos & DevOps  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure)
-
----
-
-## 🎯 Especialización
-
-### 🔍 Quality Assurance & Testing
-- **Testing Automatizado**: Selenium WebDriver, API testing con Rest Assured
-- **BDD Testing**: Cucumber con lenguaje natural para colaboración
-- **Frameworks personalizados**: Desarrollo de soluciones de testing escalables
-- **CI/CD Integration**: Integración en pipelines de desarrollo
-
-### 🌐 Desarrollo Full-Stack
-- **Frontend**: React, Vue.js, interfaces modernas y responsivas
-- **Backend**: Laravel, Node.js, APIs REST robustas
-- **Bases de Datos**: PostgreSQL, MySQL, optimización de consultas
-- **DevOps**: Docker, Azure, automatización de deployment
 
 ---
 
