@@ -25,6 +25,12 @@
 🌍 **Experiencia Internacional**: 2 años en Nueva Zelanda (2023-2025)  
 🎯 **Especialización**: Testing frameworks, API automation y Desarrollo Web
 
+### 🚀 Objetivos Profesionales
+- **Liderar Transformación QA**: Implementar metodologías ágiles de testing en equipos enterprise, aplicando TDD/BDD y automatización integral
+- **Especialización en Performance**: Desarrollar expertise en pruebas de rendimiento y optimización de sistemas críticos usando JMeter y análisis de métricas avanzadas  
+- **Arquitectura de Testing**: Diseñar frameworks de testing escalables para microservicios y aplicaciones distribuidas
+- **Mentoría Técnica**: Contribuir al crecimiento de equipos QA junior en metodologías modernas de testing automatizado
+
 ### 💼 Experiencia en Sectores
 - **Bancario**: Sistemas enterprise y aplicaciones críticas
 - **Seguros**: Apps móviles y backend para dispositivos
@@ -51,6 +57,11 @@
 - 🐳 **Deployment containerizado**: Docker con CI/CD automatizado
 - ✅ **Validación QR**: Verificación instantánea de autenticidad
 
+**🎓 Aprendizajes Clave**:
+- **Testing Ágil Integral**: Implementación de metodologías ágiles aplicando principios de Scrum, TDD y integración continua para garantizar calidad desde el diseño
+- **Desarrollo Full-Stack Profesional**: Dominio de arquitectura MVC con Laravel y componentes React, aplicando patrones de diseño y principios SOLID
+- **Automatización DevOps**: Configuración de pipelines CI/CD con Docker, aplicando buenas prácticas de deployment y gestión de ambientes
+
 ### 2. 🧪 Framework API Testing (Rest Assured)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-FF6B35?logo=github)](https://github.com/AndresRG82/Rest-Assured-Certificados)
 
@@ -66,6 +77,11 @@
 - ⚡ **Ejecución paralela**: Tests optimizados para pipelines CI/CD
 - 🔍 **Debugging avanzado**: Logging detallado de request/response para troubleshooting
 
+**🔬 Aprendizajes Clave**:
+- **API Testing Avanzado**: Dominio de pruebas de servicios web REST aplicando conceptos de autenticación JWT, validación de respuestas HTTP y manejo de datos JSON/XML
+- **Framework de Testing Robusto**: Desarrollo de arquitectura escalable con Rest Assured, aplicando principios de reutilización y mantenimiento de código de pruebas
+- **Integración Continua**: Implementación de suites de testing automatizado en pipelines CI/CD con reportes ejecutivos y métricas de calidad
+
 ### 3. 🎭 Framework BDD Testing (Selenium + Cucumber)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-9C27B0?logo=github)](https://github.com/AndresRG82/selenium-certificados)
 
@@ -80,6 +96,29 @@
 - 📸 **Evidencia automática**: Screenshots y videos en fallos para debugging
 - 🏷️ **Tags inteligentes**: @smoke, @regression, @critical para ejecución selectiva
 - 📋 **Reportes cucumber**: HTML interactivos con métricas de cobertura
+
+**🎭 Aprendizajes Clave**:
+- **BDD y Colaboración**: Implementación de Desarrollo Conducido por Comportamiento usando Cucumber y Gherkin para facilitar comunicación entre equipos técnicos y de negocio
+- **Testing Funcional Automatizado**: Dominio de Selenium WebDriver aplicando Page Object Model y principios de diseño para mantener código de pruebas escalable y mantenible
+- **Metodología Ágil Aplicada**: Integración de testing automatizado en ciclo de vida ágil, aplicando conceptos de TDD/ATDD y retroalimentación continua
+
+---
+
+## 📚 Competencias Técnicas Especializadas
+
+### 🎯 Testing & Quality Assurance
+- **Metodologías Ágiles**: Scrum, historias de usuario, integración continua
+- **TDD/BDD**: Desarrollo guiado por pruebas con JUnit, TestNG, Cucumber
+- **Testing Funcional**: Selenium WebDriver, Page Object Model, cross-browser testing
+- **API Testing**: Rest Assured, Postman, Newman, validación JWT y OAuth
+- **Performance Testing**: JMeter, análisis de carga, estrés y resistencia
+- **Cobertura de Código**: Jacoco, reportes de calidad y métricas
+
+### 🛡️ Seguridad y Buenas Prácticas
+- **Autenticación**: JWT, API Keys, OAuth 2.0
+- **Refactorización**: Principios SOLID, patrones de diseño
+- **CI/CD Integration**: Pipelines automatizados, hooks de pre-commit
+- **Mocking**: Mockito para aislamiento de dependencias
 
 ---
 
@@ -120,4 +159,3 @@
 - 🚀 Desarrollo Full-Stack y Testing Automation
 - 🌍 Trabajo remoto y colaboraciones internacionales
 - 🎓 Mentoría técnica y revisión de código
-
