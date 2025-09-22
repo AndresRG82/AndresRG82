@@ -25,11 +25,11 @@
 🎯 **Especialización**: Testing frameworks, API automation y desarrollo web
 
 ### 💼 Experiencia en Sectores
-- **Bancario**: Banco Falabella - Sistemas enterprise
+- **Bancario**: Sistemas enterprise y aplicaciones críticas
 - **Seguros**: Apps móviles y backend para dispositivos
-- **Gobierno**: Sistemas judiciales y municipales
-- **Energía**: ENAP - Sistemas de inspección (drones/ROV)
-- **Salud**: Gestión COVID-19 y sistemas administrativos
+- **Gobierno**: Sistemas judiciales y administración municipal
+- **Energía**: Sistemas de inspección (drones/ROV) y monitoreo
+- **Salud**: Gestión de procesos y sistemas administrativos
 
 ---
 
@@ -38,20 +38,47 @@
 ### 1. 🎓 Sistema de Certificados (Laravel + React)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-4CAF50?logo=github)](https://github.com/AndresRG82/certificados-public)
 
-Sistema web completo para gestión y generación de certificados digitales con PDF automático.
-**Stack**: Laravel 11, React 18, PostgreSQL, Docker
+**Plataforma web completa** para gestión y generación automática de certificados digitales con validación QR.
+
+**Stack Técnico**: Laravel 11, React 18, PostgreSQL, Tailwind CSS, Docker
+
+**Características Implementadas**:
+- 🎨 **SPA con Inertia.js**: Interfaz fluida sin recargas de página
+- 📜 **Generación PDF automática**: Certificados personalizables con datos dinámicos
+- 🔐 **Sistema de autenticación**: Roles y permisos granulares
+- 📱 **Diseño responsivo**: Optimizado para móviles y desktop
+- 🐳 **Deployment containerizado**: Docker con CI/CD automatizado
+- ✅ **Validación QR**: Verificación instantánea de autenticidad
 
 ### 2. 🧪 Framework API Testing (Rest Assured)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-FF6B35?logo=github)](https://github.com/AndresRG82/Rest-Assured-Certificados)
 
-Framework de testing automatizado para APIs REST con autenticación JWT y reportes detallados.
-**Stack**: Rest Assured, TestNG, Maven, Docker
+**Framework robusto de testing automatizado** para APIs REST con gestión inteligente de autenticación y reportes ejecutivos.
+
+**Stack Técnico**: Rest Assured, TestNG, Maven, Allure Reports, Docker
+
+**Arquitectura y Características**:
+- 🔐 **Autenticación JWT automática**: Renovación inteligente de tokens con prefijos personalizados
+- 🌐 **Testing multi-ambiente**: Local, staging y producción con configuración dinámica
+- 📊 **Reportes avanzados**: Allure Reports con métricas de performance y trazabilidad completa
+- 🧪 **15+ casos de prueba**: Cobertura completa CRUD con validaciones de negocio
+- ⚡ **Ejecución paralela**: Tests optimizados para pipelines CI/CD
+- 🔍 **Debugging avanzado**: Logging detallado de request/response para troubleshooting
 
 ### 3. 🎭 Framework BDD Testing (Selenium + Cucumber)
 [![Repo](https://img.shields.io/badge/GitHub-Repository-9C27B0?logo=github)](https://github.com/AndresRG82/selenium-certificados)
 
-Automatización de testing web con BDD usando Page Object Model para interfaces de usuario.
-**Stack**: Selenium 4, Cucumber, TestNG, Maven
+**Framework BDD empresarial** para automatización de testing web con enfoque colaborativo y mantenibilidad escalable.
+
+**Stack Técnico**: Selenium 4, Cucumber, TestNG, Maven, Page Object Model
+
+**Metodología y Implementación**:
+- 🎬 **Gherkin scenarios**: Tests escritos en lenguaje natural para colaboración equipos técnicos/negocio
+- 🏗️ **Page Object Model avanzado**: Arquitectura modular y reutilizable para escalabilidad
+- 🌐 **Cross-browser testing**: Chrome, Firefox, Edge con grids distribuidos
+- 📸 **Evidencia automática**: Screenshots y videos en fallos para debugging
+- 🏷️ **Tags inteligentes**: @smoke, @regression, @critical para ejecución selectiva
+- 📋 **Reportes cucumber**: HTML interactivos con métricas de cobertura
 
 ---
 
@@ -81,31 +108,6 @@ Automatización de testing web con BDD usando Page Object Model para interfaces 
 - **Backend**: Laravel, Node.js, APIs REST robustas
 - **Bases de Datos**: PostgreSQL, MySQL, optimización de consultas
 - **DevOps**: Docker, Azure, automatización de deployment
-
-### 🏦 Experiencia en Sectores Críticos
-- **Sistemas Bancarios** con tecnologías enterprise
-- **Aplicaciones Gubernamentales** para juzgados y municipios
-- **Sistemas de Inspección** con drones y ROVs para ENAP
-- **Aplicaciones de Salud** para gestión COVID-19
-
----
-
-## 📈 Objetivos Profesionales
-
-### 🎯 Corto Plazo (6-12 meses)
-- 🚀 **Performance Testing**: Implementar JMeter/K6 para testing de carga
-- ☁️ **Cloud Testing**: Migrar frameworks a infraestructura cloud-native
-- 🤖 **AI Testing**: Explorar ML para generación automática de tests
-
-### 🌟 Medio Plazo (1-2 años)
-- 👥 **Liderazgo Técnico**: Liderar equipos de QA en proyectos enterprise
-- 📚 **Contribución Comunidad**: Frameworks open-source y speaking
-- 🎓 **Certificaciones**: ISTQB Advanced, AWS DevOps, Kubernetes
-
-### 🚀 Largo Plazo (3-5 años)
-- 🏗️ **Arquitecto QA**: Diseñar estrategias de calidad organizacionales
-- 💡 **Innovación**: Desarrollar herramientas de testing inteligente
-- 🌍 **Impacto Global**: Consultoría internacional y estándares de industria
 
 ---
 
