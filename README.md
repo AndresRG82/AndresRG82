@@ -25,12 +25,6 @@
 🌍 **Experiencia Internacional**: 2 años en Nueva Zelanda (2023-2025)  
 🎯 **Especialización**: Testing frameworks, API automation y Desarrollo Web
 
-### 🚀 Objetivos Profesionales
-- **Liderar Transformación QA**: Implementar metodologías ágiles de testing en equipos enterprise, aplicando TDD/BDD y automatización integral
-- **Especialización en Performance**: Desarrollar expertise en pruebas de rendimiento y optimización de sistemas críticos usando JMeter y análisis de métricas avanzadas  
-- **Arquitectura de Testing**: Diseñar frameworks de testing escalables para microservicios y aplicaciones distribuidas
-- **Mentoría Técnica**: Contribuir al crecimiento de equipos QA junior en metodologías modernas de testing automatizado
-
 ### 💼 Experiencia en Sectores
 - **Bancario**: Sistemas enterprise y aplicaciones críticas
 - **Seguros**: Apps móviles y backend para dispositivos
@@ -58,7 +52,7 @@
 - ✅ **Validación QR**: Verificación instantánea de autenticidad
 
 **🎓 Aprendizajes Clave**:
-- **Testing Ágil Integral**: Implementación de metodologías ágiles aplicando principios de Scrum, TDD y integración continua para garantizar calidad desde el diseño
+- **Testing Ágil Integral**: Implementación de metodologías ágiles aplicando principios de Scrum e integración continua para garantizar calidad desde el diseño
 - **Desarrollo Full-Stack Profesional**: Dominio de arquitectura MVC con Laravel y componentes React, aplicando patrones de diseño y principios SOLID
 - **Automatización DevOps**: Configuración de pipelines CI/CD con Docker, aplicando buenas prácticas de deployment y gestión de ambientes
 
