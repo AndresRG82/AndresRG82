@@ -4,9 +4,9 @@
 
 ### Maykol Andres Ramírez González
 
-![Total Hours](https://img.shields.io/badge/Total_Horas-200%2B-4CAF50?style=for-the-badge)
-![Certificates](https://img.shields.io/badge/Certificados-20%2B-2196F3?style=for-the-badge)
-![Institutions](https://img.shields.io/badge/Instituciones-4-FF9800?style=for-the-badge)
+![Total Hours](https://img.shields.io/badge/Total_Horas-210%2B-4CAF50?style=for-the-badge)
+![Certificates](https://img.shields.io/badge/Certificados-21-2196F3?style=for-the-badge)
+![Institutions](https://img.shields.io/badge/Instituciones-5-FF9800?style=for-the-badge)
 
 ---
 
@@ -68,21 +68,7 @@
 </table>
 
 **💡 Total**: 24 horas de formación
-Transformación Digital
-Contenido desarrollado por MIT Professional Education
-22 de febrero de 2025
-8 Horas (2 Módulos, Autoevaluación)
-Número de serie: OA-2025-0222000832915 - [📄 Ver certificado](certificados/508_mandresrg93@gmail.com.pdf)
-Python
-No especificado
-4 de marzo de 2025
-8 Horas (2 Módulos, Autoevaluación)
-Número de serie: OA-2025-0304000863223 - [📄 Ver certificado](certificados/10_mandresrg93@gmail.com.pdf)
-Aprender a aprender: Técnicas para tu autodesarrollo
-Alura
-17 de septiembre de 2025
-8 horas
-Recibido por Maykol Andres - [📄 Ver certificado](certificados/Maykol%20Andres%20-%20Curso%20Aprender%20a%20aprender_%20tecnicas%20para%20tu%20autodesarrollo%20-%20Alura.pdf)
+
 ---
 
 ## 2️⃣ Análisis de Datos - Desafío Latam
@@ -122,6 +108,7 @@ Recibido por Maykol Andres - [📄 Ver certificado](certificados/Maykol%20Andres
 </table>
 
 **💡 Total**: 136 horas de formación especializada en Data Analysis
+
 ---
 
 ## 3️⃣ Programación Java - Alura
@@ -172,6 +159,7 @@ Recibido por Maykol Andres - [📄 Ver certificado](certificados/Maykol%20Andres
 </table>
 
 **💡 Total**: 34 horas de formación en Java Backend
+
 ---
 
 ## 4️⃣ Lógica de Programación - Alura
@@ -214,6 +202,7 @@ Recibido por Maykol Andres - [📄 Ver certificado](certificados/Maykol%20Andres
 </table>
 
 **💡 Total**: 26 horas de fundamentos de programación
+
 ---
 
 ## 5️⃣ Desarrollo Web (HTML, CSS, Git) - Alura
@@ -270,43 +259,55 @@ Recibido por Maykol Andres - [📄 Ver certificado](certificados/Maykol%20Andres
 </table>
 
 **💡 Total**: 30 horas de formación en Frontend Development
+
 ---
 
-## 6️⃣ Inteligencia Artificial - Alura
+## 6️⃣ Inteligencia Artificial
 
 <div align="center">
 
-### 🤖 IA Generativa & Prompt Engineering
+### 🤖 IA Generativa, Prompt Engineering & Desarrollo con IA
 
 ![AI](https://img.shields.io/badge/AI-Generative_AI-412991?style=for-the-badge&logo=ai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
-### 📅 Completado: 06 de agosto de 2025
-
 <table>
 <tr>
-<th width="50%">Curso</th>
+<th width="45%">Curso</th>
+<th>Entidad</th>
 <th>Duración</th>
-<th>Contenido Clave</th>
+<th>Fecha</th>
 <th>Certificado</th>
 </tr>
 <tr>
-<td><strong>IA: Explorando el potencial de la Inteligencia Artificial Generativa</strong></td>
+<td><strong>Desarrollo con IA</strong><br/>
+<sub>Jornadas formativas intensivas</sub></td>
+<td>BIG school</td>
+<td align="center">⏱️ 6h</td>
+<td align="center">📅 03/10/2025</td>
+<td align="center"><a href="certificados/Maykol%20Andres%20_mandresrg93@gmail.com.pdf">📄 Ver</a></td>
+</tr>
+<tr>
+<td><strong>IA: Explorando el potencial de la Inteligencia Artificial Generativa</strong><br/>
+<sub>Fundamentos de IA, modelos generativos, aplicaciones</sub></td>
+<td>Alura</td>
 <td align="center">⏱️ 8h</td>
-<td><sub>Fundamentos de IA, modelos generativos, aplicaciones</sub></td>
+<td align="center">📅 06/08/2025</td>
 <td align="center"><a href="certificados/Maykol%20Andres%20-%20Curso%20IA_%20explorando%20el%20potencial%20de%20la%20Inteligencia%20Artificial%20Generativa%20-%20Alura.pdf">📄 Ver</a></td>
 </tr>
 <tr>
-<td><strong>Ingeniería de Prompt: Creando prompts eficaces</strong></td>
+<td><strong>Ingeniería de Prompt: Creando prompts eficaces</strong><br/>
+<sub>Técnicas de prompting, optimización, casos de uso</sub></td>
+<td>Alura</td>
 <td align="center">⏱️ 8h</td>
-<td><sub>Técnicas de prompting, optimización, casos de uso</sub></td>
+<td align="center">📅 06/08/2025</td>
 <td align="center"><a href="certificados/Maykol%20Andres%20-%20Curso%20Ingeniería%20de%20Prompt_%20creando%20prompts%20eficaces%20para%20la%20IA%20generativa%20-%20Alura.pdf">📄 Ver</a></td>
 </tr>
 </table>
 
-**💡 Total**: 16 horas de formación en IA Generativa
+**💡 Total**: 22 horas de formación en IA Generativa y Desarrollo
 
 ---
 
@@ -319,18 +320,18 @@ Recibido por Maykol Andres - [📄 Ver certificado](certificados/Maykol%20Andres
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Total_Certificados-20-4CAF50?style=for-the-badge&logo=certificate&logoColor=white"/><br/>
-<h3>20</h3>
+<img src="https://img.shields.io/badge/Total_Certificados-21-4CAF50?style=for-the-badge&logo=certificate&logoColor=white"/><br/>
+<h3>21</h3>
 <sub>Certificados completados</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Horas_Totales-200%2B-2196F3?style=for-the-badge&logo=clock&logoColor=white"/><br/>
-<h3>200+</h3>
+<img src="https://img.shields.io/badge/Horas_Totales-210%2B-2196F3?style=for-the-badge&logo=clock&logoColor=white"/><br/>
+<h3>210+</h3>
 <sub>Horas de formación</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Instituciones-4-FF9800?style=for-the-badge&logo=university&logoColor=white"/><br/>
-<h3>4</h3>
+<img src="https://img.shields.io/badge/Instituciones-5-FF9800?style=for-the-badge&logo=university&logoColor=white"/><br/>
+<h3>5</h3>
 <sub>Instituciones reconocidas</sub>
 </td>
 <td align="center" width="25%">
@@ -352,7 +353,7 @@ Recibido por Maykol Andres - [📄 Ver certificado](certificados/Maykol%20Andres
 │  HTML/CSS/Git Frontend                   30h ███░░░░░░░░░░ │
 │  Lógica de Programación                  26h ███░░░░░░░░░░ │
 │  Transformación Digital                  24h ██░░░░░░░░░░░ │
-│  Inteligencia Artificial                 16h ██░░░░░░░░░░░ │
+│  Inteligencia Artificial                 22h ██░░░░░░░░░░░ │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -370,15 +371,20 @@ Recibido por Maykol Andres - [📄 Ver certificado](certificados/Maykol%20Andres
 <sub>Data Analysis Specialist</sub><br/>
 ⏱️ 136 horas
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <strong>Alura (Oracle)</strong><br/>
 <sub>Full-Stack Developer</sub><br/>
 ⏱️ 106 horas
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <strong>Oracle Academy</strong><br/>
 <sub>Python Programming</sub><br/>
 ⏱️ 8 horas
+</td>
+<td align="center" width="20%">
+<strong>BIG school</strong><br/>
+<sub>Desarrollo con IA</sub><br/>
+⏱️ 6 horas
 </td>
 </tr>
 </table>
