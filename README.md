@@ -136,7 +136,43 @@
 
 ---
 
-## 📞 Contacto
+## � Certificaciones
+
+<div align="center">
+
+[![Ver Certificados](https://img.shields.io/badge/📜_Ver_Todos_los_Certificados-200%2B_Horas-4CAF50?style=for-the-badge)](certificados.md)
+
+### Principales Certificaciones Profesionales
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/MIT-Transformación_Digital-A31F34?style=for-the-badge&logo=mit&logoColor=white" /><br/>
+<sub>⏱️ 8 horas<br/>MIT Professional Education</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Desafío_Latam-Python_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+<sub>⏱️ 76 horas<br/>Data Analysis con Python</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Desafío_Latam-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+<sub>⏱️ 60 horas<br/>SQL para Análisis de Datos</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Alura-Java_Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+<sub>⏱️ 34 horas<br/>Backend Development</sub>
+</td>
+</tr>
+</table>
+
+**📊 Total**: +200 horas certificadas | **🎓 Instituciones**: MIT, Desafío Latam, Alura, Oracle  
+**🔗 [Ver listado completo y certificados](certificados.md)**
+
+</div>
+
+---
+
+## �📞 Contacto
 
 **💼 LinkedIn**: [linkedin.com/in/maykol-andres-ramirez-gonzalez-976b41192](https://www.linkedin.com/in/maykol-andres-ramirez-gonzalez-976b41192/)
 
