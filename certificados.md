@@ -6,7 +6,7 @@
 
 ![Total Hours](https://img.shields.io/badge/Total_Horas-431%2B-4CAF50?style=for-the-badge)
 ![Certificates](https://img.shields.io/badge/Certificados-21-2196F3?style=for-the-badge)
-![Institutions](https://img.shields.io/badge/Instituciones-5-FF9800?style=for-the-badge)
+![Institutions](https://img.shields.io/badge/Instituciones-6-FF9800?style=for-the-badge)
 
 ---
 
@@ -50,7 +50,7 @@
 <td>MIT Professional Education</td>
 <td>22 de febrero de 2025</td>
 <td>⏱️ 8 Horas</td>
-<td align="center"><a href="certificados/508_mandresrg93@gmail.com.pdf">📄 Ver</a><br/><sub>OA-2025-0222000832915</sub></td>
+<td align="center"><a href="certificados/508_mandresrg93@gmail.com.pdf">📄 Ver</a><br/><sub>OA-2025-0222000832915</sub></td> 
 </tr>
 <tr>
 <td><strong>Python</strong></td>
@@ -408,30 +408,35 @@ La barra está escalada al mayor valor (Automatización de Pruebas = 159 h). Lon
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="16%">
 <strong>MIT Professional Education</strong><br/>
 <sub>Transformación Digital</sub><br/>
 ⏱️ 8 horas
 </td>
-<td align="center" width="25%">
+<td align="center" width="16%">
 <strong>Desafío Latam</strong><br/>
 <sub>Data Analysis Specialist</sub><br/>
 ⏱️ 136 horas
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <strong>Alura (Oracle)</strong><br/>
 <sub>Full-Stack Developer</sub><br/>
 ⏱️ 106 horas
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <strong>Oracle Academy</strong><br/>
 <sub>Python Programming</sub><br/>
 ⏱️ 8 horas
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <strong>BIG school</strong><br/>
 <sub>Desarrollo con IA</sub><br/>
 ⏱️ 6 horas
+</td>
+<td align="center" width="16%">
+<strong>KIBERNUM CAPACITACIÓN S.A.</strong><br/>
+<sub>Capacitación técnica y profesional (bootcamps, cursos)</sub><br/>
+⏱️ —
 </td>
 </tr>
 </table>
