@@ -4,7 +4,7 @@
 
 ### Maykol Andres Ramírez González
 
-![Total Hours](https://img.shields.io/badge/Total_Horas-210%2B-4CAF50?style=for-the-badge)
+![Total Hours](https://img.shields.io/badge/Total_Horas-431%2B-4CAF50?style=for-the-badge)
 ![Certificates](https://img.shields.io/badge/Certificados-21-2196F3?style=for-the-badge)
 ![Institutions](https://img.shields.io/badge/Instituciones-5-FF9800?style=for-the-badge)
 
@@ -23,8 +23,9 @@
 - [3️⃣ Programación Java - Alura](#3️⃣-programación-java---alura)
 - [4️⃣ Lógica de Programación - Alura](#4️⃣-lógica-de-programación---alura)
 - [5️⃣ Desarrollo Web (HTML, CSS, Git) - Alura](#5️⃣-desarrollo-web-html-css-git---alura)
-- [6️⃣ Inteligencia Artificial - Alura](#6️⃣-inteligencia-artificial---alura)
-- [📊 Resumen Estadístico](#📊-resumen-estadístico)
+ - [6️⃣ Inteligencia Artificial - Alura](#6️⃣-inteligencia-artificial---alura)
+ - [7️⃣ Especialización en Automatización de Pruebas](#7️⃣-especialización-en-automatización-de-pruebas)
+ - [📊 Resumen Estadístico](#📊-resumen-estadístico)
 
 ---
 
@@ -101,7 +102,7 @@
 <td><strong>Programación con Python para el Análisis de Datos</strong><br/>
 <sub>🎯 Pandas, NumPy, visualización y análisis estadístico</sub></td>
 <td align="center">⏱️ <strong>76 horas</strong></td>
-<td align="center">� Septiembre 8, 2025</td>
+<td align="center">Septiembre 8, 2025</td>
 <td align="center"><code>48462</code></td>
 <td align="center"><a href="certificados/certificado-aprobacion-de-modulo-nuevo-programacion-con-python-para-el-analisis-de-datos-g110-20916.pdf">📄 Ver</a></td>
 </tr>
@@ -311,6 +312,50 @@
 
 ---
 
+## 7️⃣ Especialización en Automatización de Pruebas
+
+<div align="center">
+
+### 🎓 Plan Formativo PF1489 — Especialización en Automatización de Pruebas
+
+</div>
+
+<table>
+<tr>
+<th>Plan / Título</th>
+<th>Código</th>
+<th>Sector / Área</th>
+<th>Nivel</th>
+<th>Modalidad</th>
+<th>Total Horas</th>
+<th>Documento</th>
+</tr>
+<tr>
+<td><strong>Especialización en Automatización de Pruebas</strong><br/><sub>Plan formativo orientado a testing automatizado y buenas prácticas</sub></td>
+<td align="center"><code>PF1489</code></td>
+<td align="center">Información y Comunicaciones / Computación e Informática</td>
+<td align="center">Nivel 4</td>
+<td align="center">Presencial (no adaptable a modalidad online)</td>
+<td align="center">⏱️ <strong>159 horas</strong></td>
+<td align="center"><a href="certificados/Maykol%20Ramirez%20-%20Especializacion%20en%20automatizacion%20de%20pruebas.pdf">📄 Ver</a></td>
+</tr>
+</table>
+
+**Descripción breve:** Este plan está diseñado para desarrollar las habilidades necesarias para el testeo de aplicaciones web, verificando funcionalidades y detectando bugs mediante técnicas de programación y automatización de pruebas (TDD, BDD, Selenium, REST Assured, JMeter). El perfil formado participa en equipos ágiles con foco en diseño e implementación de tests automatizados y soporte a ciclos de integración y entrega continua.
+
+**Módulos principales (resumen):**
+- Orientación al perfil y metodología — 9 h
+- Fundamentos del testing ágil — 18 h
+- Desarrollo conducido por pruebas (TDD, JUnit, Mockito) — 24 h
+- Automatización testing funcional (Selenium, WebDriver, POM) — 24 h
+- Desarrollo conducido por comportamiento (BDD, Cucumber) — 21 h
+- Pruebas de servicios web (REST, Postman, REST Assured) — 21 h
+- Pruebas de rendimiento (JMeter) — 21 h
+- Desarrollo de portafolio y empleabilidad — 12 + 9 h
+- **Total:** 159 h
+
+---
+
 ## 📊 Resumen Estadístico
 
 <div align="center">
@@ -325,8 +370,8 @@
 <sub>Certificados completados</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Horas_Totales-210%2B-2196F3?style=for-the-badge&logo=clock&logoColor=white"/><br/>
-<h3>210+</h3>
+<img src="https://img.shields.io/badge/Horas_Totales-431%2B-2196F3?style=for-the-badge&logo=clock&logoColor=white"/><br/>
+<h3>431+</h3>
 <sub>Horas de formación</sub>
 </td>
 <td align="center" width="25%">
@@ -335,8 +380,8 @@
 <sub>Instituciones reconocidas</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Áreas-6-9C27B0?style=for-the-badge&logo=books&logoColor=white"/><br/>
-<h3>6</h3>
+<img src="https://img.shields.io/badge/Áreas-7-9C27B0?style=for-the-badge&logo=books&logoColor=white"/><br/>
+<h3>7</h3>
 <sub>Áreas de especialización</sub>
 </td>
 </tr>
@@ -354,6 +399,7 @@
 │  Lógica de Programación                  26h ███░░░░░░░░░░ │
 │  Transformación Digital                  24h ██░░░░░░░░░░░ │
 │  Inteligencia Artificial                 22h ██░░░░░░░░░░░ │
+│  Automatización de Pruebas              159h ███████████████ │
 └────────────────────────────────────────────────────────────┘
 ```
 
